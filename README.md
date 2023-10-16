@@ -1,4 +1,4 @@
-<h1>Decrypt an encrypyted message</h1>
+<h1>Decrypting an encrypyted message</h1>
 
 <h2>Description</h2>
 Using Linux commands to break the Ceasar cipher and decrypt the files so that I can read the hidden messages they contain. 
